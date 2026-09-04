@@ -20,3 +20,14 @@ BRONZEGYM=FAULSE
 SPRITEDRINK=3.79
 COCOLADRINK=4.67
 FANTADRINK=5.34
+
+# Variable naming conventions
+# we are naming convention because we cannot have space in
+# variable naming
+
+# camel case- when creating variable names with multiple words
+# every new word begins with a capital letter
+# the resone why its calles camel case is bc every new word
+# represents a humb.
+usernamefornewinstagramaccount=0
+passwordrecoverytiktokaccount=0
