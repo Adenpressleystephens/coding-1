@@ -1,0 +1,9 @@
+strings-characters-floats-integers
+
+code respoitory a bunch of space to store code and files
+
+a keybord is a input because it puts letters into the computer
+
+a variable is a way to contain data
+
+1 veriable naming rule is no spaces
