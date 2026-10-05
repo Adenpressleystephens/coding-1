@@ -1,0 +1,10 @@
+1. a documentation is a bunch of documentation explaning how a code works
+
+2. if i were working on a game with a large team of developers 3 reasons why having a good documentation would be benfical to building a game
+# have all the documant in one palce so that it would be able to explain how the code works
+# it describes flows patterns and other important parts of the codebase
+# it resides within the source code and explains details of specific code parts in isolation
+
+3. external is out in the open vs internal were its private
+
+4. no you do not need to know how to read code documentation because it already explains the code
