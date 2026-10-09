@@ -1,0 +1,25 @@
+# when we are building complex programe we need a 
+# way to pass in data that is not always
+# from the user
+
+# function argument and parameters are ways to 
+# pass  in data to a function from possibly
+# another function
+
+# function paraters- this is placeholder data from
+# a function. veriable inside the culy bracket
+
+# memorey trick - parther and laceholder both
+# start with the letter p
+def check_water_depth(depth):
+print(depth)
+print(depth > 18) # true if depth is greter then 10 feet
+# return depth
+# function argument- this is real data that we pass into
+# the function call
+# memry trick- if you make a real argument with a person
+# you need to come witth real facts (data)
+# check_water_depth(3)
+
+# return - this keyword allows us to pass sata from inside 1 function
+# into another function
