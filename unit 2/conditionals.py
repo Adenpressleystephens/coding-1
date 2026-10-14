@@ -34,3 +34,25 @@ print ("sorry tgat type of bill is not accepted")
 # example an input where if the usr enters 1, it will do
 # additons, 2 to will do suntration
 # 3 will do multiplication and 4 divisions
+
+def calculate_add():
+print("programe has started please type 2 numbers to add")
+num1 = int(input())
+num2 = int(input())
+print(num1+ num2)
+print("programe had endede")
+
+def micalculator():
+# take in a user selection as a number
+selction= input()
+
+if selection ==1:
+calculate_add()
+elif selection ==2
+calculate_subtraction()
+elif selection ==3
+calculate_divide()
+elif selection ==4
+calculate_multiply()
+else
+print("sorry somthing went wrong")
