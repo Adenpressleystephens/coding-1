@@ -56,3 +56,24 @@ elif selection ==4
 calculate_multiply()
 else
 print("sorry somthing went wrong")
+
+def movieticketprice=():
+print("welcome to the novie thearter . how old are you?")
+age = input()
+
+if age < 7:
+    print(" your ticket is $8.00")
+elif age > and < 20:
+    print("your ticket is $12.00")
+elif age > 8 and age < 60:
+    print("your ticket is $20.00")
+elif age > 61:
+    print("your ticket is free. ")
+    print("sorry invalide input")
+elif
+     print("soryy invalide input")
+
+
+movieticketprice()
+
+
