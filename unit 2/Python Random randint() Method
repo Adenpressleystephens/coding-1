@@ -4,3 +4,22 @@ Fridays assignment
 import random
 
 print(random.randint(3, 9))
+
+
+def diceGame():
+    print("DICE GAME")
+    print("type R to roll the dice or Q to quiet the game: ")
+
+
+while usersSelection != "q"
+     if usersSelection == "y"
+     dicevaluse = radome.radient(1,7)
+     if dicevaluse ==7
+     print("you rolled a: " + str(dicevaluse))
+     print("YOU LOSE...")
+     score = 5
+     print("you may balence is " + str(score))
+     print("type R to roll the dicer or Q to quiet the game: ")
+     usersSelection = input()
+else:
+     print("")     
