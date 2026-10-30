@@ -56,3 +56,31 @@ every level will have hidden traps rhey  will appear when they get to a serten p
 when the user fails the level they will be sent all the way to restart the level 
 and with every faild attempt the level will get harder causing user to be more lickley to pass
 and every time the user passes a level they will be granted with coins that can buy skins more coint deppending on how hard the level is
+
+# liat - container that allows us to store multiply pices of data
+# (data types, vfariable, other list, ect)
+
+# list keep our data structured and organized
+
+drink = []
+ sandwich =[]
+ wawa_kiosk = drinks, sandwichs, soups
+
+ # when selection selection an tiem, we use the indexing system of a list
+  inventory = {" wepons", "healin kit", "amour", "grenade"]
+
+  # list are 0 based indexing system, healing- the first time
+  # in a list starts with 0. 
+  print(inventory[])
+
+  # list are also changable and mainpulatible (mutable)
+  
+  # when we whant to add items we use the append() method
+
+  inventory.appened("knife")
+  print(inventory)
+
+  # remove an item from a lsit , specifically remove the
+  # healing kit from the list
+
+  # add a new healing hit to the list, specifially at index 3
